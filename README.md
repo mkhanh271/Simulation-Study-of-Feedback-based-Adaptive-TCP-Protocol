@@ -3,7 +3,7 @@
 > An NS-2 simulation study implementing and evaluating **TCP Adaptive** — a feedback-based congestion control protocol that dynamically switches between two operating modes (FCWND and PCWND) based on real-time network conditions — benchmarked against **TCP Reno**.
 
 ---
-## First Words : TCP Adaptive will perform best in MANET network with AODV routing protocol , this project only works with traditional network and simple routing protocol , you can run all the code peacafully without any bugs or errors :) , I really happy and appreciate all your contribution ~~~ Thank yall !
+## First Words : TCP Adaptive will perform best in MANET network with AODV routing protocol , this project only works with traditional network and simple routing protocol , you can run all the code peacafully without any bugs or errors :) , I really happy and appreciate all your contribution ~~~  yall !
 
 ## 📋 Table of Contents
 
